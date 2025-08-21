@@ -61,7 +61,7 @@ function App() {
       <header className="bg-white shadow-sm">
         <div className="max-w-4xl mx-auto px-4 py-4 flex items-center gap-3">
           <Brain className="w-8 h-8 text-indigo-600" />
-          <h1 className="text-xl font-semibold text-gray-800">Avish</h1>
+          <h1 className="text-xl font-semibold text-gray-800">Synap</h1>
         </div>
       </header>
 
